@@ -1,0 +1,23 @@
+[
+  {
+    "title": "SaaS Analytics Dashboard",
+    "description": "A performance dashboard with role-based access, data visualizations, and real-time insights for product teams.",
+    "liveUrl": "https://example.com/analytics-dashboard",
+    "githubUrl": "https://github.com/yourname/analytics-dashboard",
+    "techStack": ["Next.js", "Tailwind CSS", "PostgreSQL", "Chart.js"]
+  },
+  {
+    "title": "E-Commerce Storefront",
+    "description": "Responsive online storefront featuring product filtering, cart management, and Stripe checkout.",
+    "liveUrl": "https://example.com/ecommerce-store",
+    "githubUrl": "https://github.com/yourname/ecommerce-store",
+    "techStack": ["React", "TypeScript", "Node.js", "Stripe API"]
+  },
+  {
+    "title": "Team Collaboration App",
+    "description": "A collaborative workspace app with Kanban boards, comments, and automated notifications.",
+    "liveUrl": "https://example.com/team-collab",
+    "githubUrl": "https://github.com/yourname/team-collab",
+    "techStack": ["Next.js", "Prisma", "Tailwind CSS", "Socket.IO"]
+  }
+]
